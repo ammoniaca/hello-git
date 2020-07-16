@@ -2,7 +2,7 @@ package hello.git;
 
 public class Hello {
 
-	public void dispaly() {
+	public void display() {
 		System.out.println("Hello Hello");
 		System.out.println("Git!");
 	}

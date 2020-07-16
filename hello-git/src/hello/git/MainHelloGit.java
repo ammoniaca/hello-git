@@ -7,7 +7,7 @@ public class MainHelloGit {
 		
 		Hello helloGit = new Hello();
 		helloGit.helloDisplay();
-		helloGit.dispaly();
+		helloGit.display();
 
 	}
 
