@@ -4,5 +4,6 @@ public class Hello {
 
 	public void dispaly() {
 		System.out.println("Hello Hello");
+		System.out.println("Git!");
 	}
 }
